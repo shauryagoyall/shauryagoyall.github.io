@@ -5,6 +5,15 @@ color: #ffffff ; text-align: center;
 
 a{font-family: 'Lato', sans-serif;color: #ffffff ;text-decoration: none; font-size: 140%;}
 
+#trunk-js{
+width:100%;
+height: 100vh;}
+
+* {
+margin:0;
+padding:0;
+}
+ 
 
 
 
