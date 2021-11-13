@@ -1,13 +1,3 @@
-body{
- font-size: 120%; 
- sans-serif; 
- color: #ffffff ; 
- text-align: center;
-}
-
-a{
- sans-serif;color: #ffffff ;text-decoration: none;
-}
 
 #trunk-js{
 width:100%;
@@ -31,6 +21,11 @@ name {
 
 p,a{
     font-family: 'Poppins', sans-serif;
-    font-size: 18px;
+    font-size: 18px; color: #ffffff ;text-decoration: none;
+}
+
+a:hover {
+  color: #ff0066;
+  text-decoration: none;
 }
     
