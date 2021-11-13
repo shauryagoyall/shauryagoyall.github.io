@@ -1,9 +1,13 @@
-body{font-size: 120%; 
-font-family: 'Lato', sans-serif; 
-color: #ffffff ; text-align: center;
+body{
+ font-size: 120%; 
+ sans-serif; 
+ color: #ffffff ; 
+ text-align: center;
 }
 
-a{font-family: 'Lato', sans-serif;color: #ffffff ;text-decoration: none; font-size: 140%;}
+a{
+ sans-serif;color: #ffffff ;text-decoration: none;
+}
 
 #trunk-js{
 width:100%;
@@ -15,8 +19,9 @@ padding:0;
 }
  
 
-main{padding-top: 5%;
-padding-bottom: 80px;
+main{
+ padding-top: 5%;
+ padding-bottom: 80px;
 }
 
 name {
