@@ -12,6 +12,7 @@ padding:0;
 main{
  padding-top: 5%;
  padding-bottom: 80px;
+color: #ffffff ;
 }
 
 name {
@@ -38,5 +39,22 @@ font-size: 36px;
 project{
     font-family: 'Poppins', sans-serif;
     color: #ffffff ;text-decoration: none;
-font-size: 26px;
+font-size: 24px;
+}
+
+.one {
+  position: relative;
+}
+
+.two {
+  position: absolute;
+  transition: opacity .2s ease-in-out;
+  -moz-transition: opacity .2s ease-in-out;
+  -webkit-transition: opacity .2s ease-in-out;
+}
+
+.fade {
+  transition: opacity .2s ease-in-out;
+  -moz-transition: opacity .2s ease-in-out;
+  -webkit-transition: opacity .2s ease-in-out;
 }
